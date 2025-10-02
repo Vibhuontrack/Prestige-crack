@@ -1,10 +1,2 @@
-Config manager doesnt work
-
-
-
-
-
-
-
-
-Other modules will be added soon
+Config Manager fixed
+Auto Totem Fixed
